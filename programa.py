@@ -1,0 +1,8 @@
+print(10 + 20)
+print(30 - 5)
+print(2 * 3)
+print(8 / 2)
+print(100 + 50)
+print(7.5 * 2)
+print(15 / 3)
+print(100 - 25)
